@@ -1,0 +1,4 @@
+[build]
+builder = "java"
+buildCommand = "mvn package"
+startCommand = "java -jar target/*.jar"
