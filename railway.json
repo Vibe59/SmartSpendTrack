@@ -1,6 +1,6 @@
 {
   "build": {
-    "builder": "JAVA"
+    "builder": "MAVEN"
   },
   "deploy": {
     "startCommand": "mvn spring-boot:run"
